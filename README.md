@@ -1,11 +1,11 @@
 
-# 🚢 Titanic Survival Prediction
+# Titanic Survival Prediction
 
 This project analyzes the Titanic dataset to build machine learning models that predict passenger survival. It demonstrates a complete data science workflow including data preprocessing, exploratory data analysis (EDA), feature engineering, model training, evaluation, and final prediction.
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 - **Goal:** Predict which passengers survived the Titanic disaster.
 - **Dataset:** [Kaggle Titanic Dataset](https://www.kaggle.com/competitions/titanic/data)
@@ -13,7 +13,7 @@ This project analyzes the Titanic dataset to build machine learning models that 
 
 ---
 
-## 🧠 Key Steps
+## Key Steps
 
 ### 1. Exploratory Data Analysis (EDA)
 - Survival count by gender  
@@ -41,7 +41,7 @@ This project analyzes the Titanic dataset to build machine learning models that 
 
 ---
 
-## 📊 Feature Importance
+## Feature Importance
 
 **Logistic Regression:**  
 - Most influential features: `Sex`, `Pclass`, `Embarked_S`
@@ -51,7 +51,7 @@ This project analyzes the Titanic dataset to build machine learning models that 
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - Python
 - pandas, numpy
@@ -78,13 +78,13 @@ This project analyzes the Titanic dataset to build machine learning models that 
 
 ---
 
-## 📣 Author
+## Author
 
 Project by **Christos Papakostas**  
 [LinkedIn Profile](https://www.linkedin.com/in/christos-papakostas/)
 
 ---
 
-## 📬 Contact
+## Contact
 
 Feel free to reach out if you want to collaborate or have feedback on this project!
